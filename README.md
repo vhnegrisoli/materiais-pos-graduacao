@@ -3,18 +3,18 @@ Repositório é com scripts e notebooks utilizando Python 3 e bancos de dados re
 
 Matérias:
 
-* 01) Banco de Dados Relacionais e Não Relacionais
-* 02) Linguagens de Programação para Ciência de Dados
-* 03) Visualização de Dados
-* 04) Data Discovery e Analytics
-* 05) Integração e Processamento de Fluxo Contínuo de Dados
-* 06) Processamento Paralelo e Distribuído de Dados
-* 07) Estatística Geral - Teoria e aplicações
-* 08) Recuperação da Informação na Web e Redes Sociais
-* 09) Modelos Estatísticos
-* 10) Machine Learning
-* 11) Redes Neurais e Aprendizagem Profunda
-* 12) Dataops e Implantação de Sistemas de Machine Learning
+* [01 - Banco de Dados Relacionais e Não Relacionais](https://github.com/vhnegrisoli/materiais-pos-graduacao/tree/master/01%20-%20Bancos%20de%20Dados%20Relacionais%20e%20N%C3%A3o-Relacionais)
+* 02 - Linguagens de Programação para Ciência de Dados
+* 03 - Visualização de Dados
+* 04 - Data Discovery e Analytics
+* 05 - Integração e Processamento de Fluxo Contínuo de Dados
+* 06 - Processamento Paralelo e Distribuído de Dados
+* 07 - Estatística Geral - Teoria e aplicações
+* 08 - Recuperação da Informação na Web e Redes Sociais
+* 09 - Modelos Estatísticos
+* 10 - Machine Learning
+* 11 - Redes Neurais e Aprendizagem Profunda
+* 12 - Dataops e Implantação de Sistemas de Machine Learning
 
 Tecnologias: Python 3, bancos de dados relacionais: PostgreSQL e Oracle, bancos de dados não relacionais: Redis, MongoDB, Neo4J
 
