@@ -30,3 +30,51 @@ Repositório é com scripts e notebooks utilizando Python 3 e bancos de dados re
 
 Início: 03/2020
 Conclusão aproximada: 08/2021
+
+### Conteúdos já desenvolvidos
+
+Durante os conteúdos da Pós, foram desenvolvidos Notebooks integrando bancos de dados NoSQL à linguagem Python, foram também criado Notebooks contendo o uso da ferramenta Pandas e NumPy para tratamento e análise avanada de dados. E também foram desenvolvidas dashboards com o Microsoft Power BI para visualização de dados, Analytics e Data Discovery.
+
+#### 01 - Bancos de Dados Relacionais e Não-Relacionais
+
+Integração do MongoDB ao Python usando a biblioteca PyMongo:
+
+![Notebook - Python e MongoDB](https://uploaddeimagens.com.br/images/002/735/445/original/pymong.png?1593369159)
+
+Integração do Redis ao Python com a biblioteca redis, criando conexão e inserindo documentos:
+
+![Python - Redis](https://uploaddeimagens.com.br/images/002/735/458/original/redis.png?1593369479)
+
+#### 02 - Linguagens de Programação para Ciência de Dados
+
+Utilização do DataFrame do Pandas para transformar dados:
+
+![Pandas - DataFrame](https://uploaddeimagens.com.br/images/002/735/450/original/dataframes.png?1593369299)
+
+Utilização da biblioteca NumPy e teste de benchmarking com funções de cálculos:
+
+![NumPy](https://uploaddeimagens.com.br/images/002/735/453/original/numpy.png?1593369412)
+
+#### 03 - Visualização de Dados
+
+Dashboard analisando casos de feminicídio no Brasil no ano de 2015.
+
+![Feminicídio Dashboard](https://github.com/vhnegrisoli/materiais-pos-graduacao/blob/master/03%20-%20Visualiza%C3%A7%C3%A3o%20de%20Dados/Dashboards/Casos%20de%20Feminic%C3%ADdio%2001.png)
+
+Dashboard analisando casos de reclamação do Procon entre os anos de 2014 a 2017
+
+![Procon Dashboard](https://github.com/vhnegrisoli/materiais-pos-graduacao/blob/master/03%20-%20Visualiza%C3%A7%C3%A3o%20de%20Dados/Dashboards/Reclama%C3%A7%C3%B5es%20do%20Procon%2001.png)
+
+Dashboard analisando casos de dengue no Brasil entre os anos de 1991 a 2014
+
+![Dengue Dashboard](https://github.com/vhnegrisoli/materiais-pos-graduacao/blob/master/03%20-%20Visualiza%C3%A7%C3%A3o%20de%20Dados/Dashboards/Casos%20de%20Dengue%2001.png)
+
+#### 04 - Data Discovery & Analytics
+
+Dashboard analisando os casos de acidentes da Prefeitura de Belo Horizonte por regional, bairros, períodos e dia da semana
+
+![Dados Acidentes PBH - Regional, Barrio, Período Dia Semana](https://github.com/vhnegrisoli/materiais-pos-graduacao/blob/master/04%20-%20Data%20Discovery%20%26%20Analytics/Dashboards%20Power%20BI/Dashboard%2001%20-%20An%C3%A1lise%20Regional%2C%20Bairro%20e%20Per%C3%ADodos.png)
+
+Dashboard analisando os casos de acidentes da Prefeitura de Belo Horizonte por perfil do condutor, habilitação, embriaguez, sexo e feixa de idade
+
+![Dados Acidentes PBH - Regional, Barrio, Período Dia Semana](https://github.com/vhnegrisoli/materiais-pos-graduacao/blob/master/04%20-%20Data%20Discovery%20%26%20Analytics/Dashboards%20Power%20BI/Dashboard%2004%20-%20An%C3%A1lise%20por%20Perfil%20do%20Envolvido.png)
