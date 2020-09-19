@@ -15,6 +15,8 @@ Repositório com scripts e notebooks utilizando Python 3 e bancos de dados relac
 <span><img height="35px" src="https://cdn.svgporn.com/logos/docker.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/java.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/git.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/apache.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/hadoop.svg"></span>
 
 * Python 3
 * NumPy
@@ -26,7 +28,7 @@ Repositório com scripts e notebooks utilizando Python 3 e bancos de dados relac
 * NoSQL: Neo4j
 * Tableau Desktop
 * Java 11
-* Spark
+* Apache Spark
 * Hadoop
 * Docker e Docker-Compose
 
