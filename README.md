@@ -8,7 +8,7 @@ Repositório com scripts e notebooks utilizando Python 3 e bancos de dados relac
 
 <span><img height="35px" src="https://cdn.svgporn.com/logos/python.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/postgresql.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/oracle.svg"></span>
+<span><img height="20px" src="https://cdn.svgporn.com/logos/oracle.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/neo4j.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/mongodb.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/redis.svg"></span>
