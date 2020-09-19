@@ -38,6 +38,8 @@ public class ContagemPalavras {
 
     @SneakyThrows
     private static void definirInputOutputJob(Job job, List<String> args) {
+        System.out.println(args.get(INDICE_INPUT));
+        System.out.println(args.get(INDICE_OUTPUT));
         FileInputFormat.addInputPath(job, new Path(args.get(INDICE_INPUT)));
         FileOutputFormat.setOutputPath(job, new Path(args.get(INDICE_OUTPUT)));
         job.waitForCompletion(true);
