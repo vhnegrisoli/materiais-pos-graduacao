@@ -32,7 +32,7 @@ Repositório com scripts e notebooks utilizando Python 3 e bancos de dados relac
 * [02 - Linguagens de Programação para Ciência de Dados](https://github.com/vhnegrisoli/materiais-pos-graduacao/tree/master/02%20-%20Linguagens%20de%20Programa%C3%A7%C3%A3o%20Para%20Ci%C3%AAncia%20de%20Dados)
 * [03 - Visualização de Dados](https://github.com/vhnegrisoli/materiais-pos-graduacao/tree/master/03%20-%20Visualiza%C3%A7%C3%A3o%20de%20Dados)
 * [04 - Data Discovery e Analytics](https://github.com/vhnegrisoli/materiais-pos-graduacao/tree/master/04%20-%20Data%20Discovery%20%26%20Analytics)
-* 05 - Integração e Processamento de Fluxo Contínuo de Dados
+* [05 - Integração e Processamento de Fluxo Contínuo de Dados](https://github.com/vhnegrisoli/materiais-pos-graduacao/tree/master/05%20-%20Integra%C3%A7%C3%A3o%20e%20Fluxo%20Cont%C3%ADnuo%20de%20Dados)
 * [06 - Processamento Paralelo e Distribuído de Dados](https://github.com/vhnegrisoli/materiais-pos-graduacao/tree/master/06%20-%20Processamento%20Paralelo%20e%20Distribu%C3%ADdo%20de%20Dados)
 * 07 - Estatística Geral - Teoria e aplicações
 * 08 - Recuperação da Informação na Web e Redes Sociais
