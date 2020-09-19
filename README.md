@@ -5,6 +5,15 @@ Repositório com scripts e notebooks utilizando Python 3 e bancos de dados relac
 
 ### Tecnologias abordadas
 
+<span><img height="35px" src="https://cdn.svgporn.com/logos/python.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/postgresql.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/oracle.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/neo4j.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/mongodb.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/redis.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/docker.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/git.svg"></span>
+
 * Python 3
 * NumPy
 * Pandas
@@ -14,6 +23,7 @@ Repositório com scripts e notebooks utilizando Python 3 e bancos de dados relac
 * NoSQL: Redis
 * NoSQL: Neo4j
 * Tableau Desktop
+* Docker e Docker-Compose
 
 ### Matérias do curso
 
@@ -22,7 +32,7 @@ Repositório com scripts e notebooks utilizando Python 3 e bancos de dados relac
 * [03 - Visualização de Dados](https://github.com/vhnegrisoli/materiais-pos-graduacao/tree/master/03%20-%20Visualiza%C3%A7%C3%A3o%20de%20Dados)
 * [04 - Data Discovery e Analytics](https://github.com/vhnegrisoli/materiais-pos-graduacao/tree/master/04%20-%20Data%20Discovery%20%26%20Analytics)
 * 05 - Integração e Processamento de Fluxo Contínuo de Dados
-* 06 - Processamento Paralelo e Distribuído de Dados
+* [06 - Processamento Paralelo e Distribuído de Dados](https://github.com/vhnegrisoli/materiais-pos-graduacao/tree/master/06%20-%20Processamento%20Paralelo%20e%20Distribu%C3%ADdo%20de%20Dados)
 * 07 - Estatística Geral - Teoria e aplicações
 * 08 - Recuperação da Informação na Web e Redes Sociais
 * 09 - Modelos Estatísticos
