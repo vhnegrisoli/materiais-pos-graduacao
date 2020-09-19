@@ -1,4 +1,5 @@
 # Especialização em Data Science & Big Data (PUC-MG)
+![Logo PUC](https://uploaddeimagens.com.br/images/002/886/539/original/puc_minas_logo.png?1600486444)
 #### Materiais e scripts desenvolvidos durante as aulas da especialização
 
 Repositório com scripts e notebooks utilizando Python 3 e bancos de dados relacionais e não-relacionais (Oracle, MongoDB, Redis, Neo4J) como estudo para a Pós-Graduação em Data Science &amp; Big Data pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG)
