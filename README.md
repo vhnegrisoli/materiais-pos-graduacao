@@ -13,6 +13,7 @@ Repositório com scripts e notebooks utilizando Python 3 e bancos de dados relac
 <span><img height="35px" src="https://cdn.svgporn.com/logos/mongodb.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/redis.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/docker.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/java.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/git.svg"></span>
 
 * Python 3
@@ -24,6 +25,9 @@ Repositório com scripts e notebooks utilizando Python 3 e bancos de dados relac
 * NoSQL: Redis
 * NoSQL: Neo4j
 * Tableau Desktop
+* Java 11
+* Spark
+* Hadoop
 * Docker e Docker-Compose
 
 ### Matérias do curso
