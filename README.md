@@ -40,8 +40,8 @@ Repositório com scripts e notebooks utilizando Python 3 e bancos de dados relac
 * [04 - Data Discovery e Analytics](https://github.com/vhnegrisoli/materiais-pos-graduacao/tree/master/04%20-%20Data%20Discovery%20%26%20Analytics)
 * [05 - Integração e Processamento de Fluxo Contínuo de Dados](https://github.com/vhnegrisoli/materiais-pos-graduacao/tree/master/05%20-%20Integra%C3%A7%C3%A3o%20e%20Fluxo%20Cont%C3%ADnuo%20de%20Dados)
 * [06 - Processamento Paralelo e Distribuído de Dados](https://github.com/vhnegrisoli/materiais-pos-graduacao/tree/master/06%20-%20Processamento%20Paralelo%20e%20Distribu%C3%ADdo%20de%20Dados)
-* 07 - Estatística Geral - Teoria e aplicações
-* 08 - Recuperação da Informação na Web e Redes Sociais
+* 07 - Estatística Geral - Teoria e aplicações (não há conteúdos dessa disciplina neste repositório pois foram cálculos estatísticos feitos em caderno)
+* [08 - Recuperação da Informação na Web e Redes Sociais] (https://github.com/vhnegrisoli/materiais-pos-graduacao/tree/master/08%20-%20Recupera%C3%A7%C3%A3o%20da%20Informa%C3%A7%C3%A3o%20na%20Web%20e%20em%20Redes%20Sociais) 
 * 09 - Modelos Estatísticos
 * 10 - Machine Learning
 * 11 - Redes Neurais e Aprendizagem Profunda
