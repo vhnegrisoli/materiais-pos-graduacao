@@ -97,3 +97,17 @@ Dashboard analisando os casos de acidentes da Prefeitura de Belo Horizonte por r
 Dashboard analisando os casos de acidentes da Prefeitura de Belo Horizonte por perfil do condutor, habilitação, embriaguez, sexo e feixa de idade
 
 ![Dados Acidentes PBH - Regional, Barrio, Período Dia Semana](https://github.com/vhnegrisoli/materiais-pos-graduacao/blob/master/04%20-%20Data%20Discovery%20%26%20Analytics/Dashboards%20Power%20BI/Dashboard%2004%20-%20An%C3%A1lise%20por%20Perfil%20do%20Envolvido.png)
+
+#### 09 - Modelos Estatísticos
+
+Plotagem de um modelo de regressão linear múltipla utilizando Scikit-Learn, Matplotlib e Seaborn.
+
+![Regressão Linear Múltipla](https://github.com/vhnegrisoli/materiais-pos-graduacao/blob/master/09%20-%20Modelos%20Estat%C3%ADsticos/imgs/01%20-%20Regress%C3%A3o%20Linear.png)
+
+Modelo de regressão logística para analisar sobreviventes por sexo utilizando Scikit-Learn, Matplotlib e Seaborn.
+
+![Regressão Logística](https://github.com/vhnegrisoli/materiais-pos-graduacao/blob/master/09%20-%20Modelos%20Estat%C3%ADsticos/imgs/02%20-%20Regress%C3%A3o%20Log%C3%ADstica.png)
+
+Modelo de algoritmo de Média Móvel Simples (MMS) para realização de forecast de séries temporais
+
+![Forecast MMS](https://github.com/vhnegrisoli/materiais-pos-graduacao/blob/master/09%20-%20Modelos%20Estat%C3%ADsticos/imgs/03%20-%20S%C3%A9ries%20Temporais%20Forecast%20M%C3%A9dia%20Movel%20Simples.png)
