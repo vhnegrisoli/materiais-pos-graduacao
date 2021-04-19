@@ -1,0 +1,21 @@
+version: '3'
+services:
+      
+  mongo-db:
+    image: tutum/mongodb
+    container_name: mongo-db
+    restart: always
+    environment:
+      - AUTH=no
+    ports:
+      - '27017:27017'
+      - '28017:28017'
+
+  redis-db:
+    image: redis
+    container_name: redis-db
+    command: "redis-server"
+    ports:
+      - '6379:6379'
+    environment:
+      - REDIS_REPLICATION_MODE=master
