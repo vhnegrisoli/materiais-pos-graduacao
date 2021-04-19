@@ -43,7 +43,7 @@ Repositório com scripts e notebooks utilizando Python 3 e bancos de dados relac
 * 07 - Estatística Geral - Teoria e aplicações (não há conteúdos dessa disciplina neste repositório pois foram cálculos estatísticos feitos em caderno)
 * [08 - Recuperação da Informação na Web e Redes Sociais](https://github.com/vhnegrisoli/materiais-pos-graduacao/tree/master/08%20-%20Recupera%C3%A7%C3%A3o%20da%20Informa%C3%A7%C3%A3o%20na%20Web%20e%20em%20Redes%20Sociais) 
 * [09 - Modelos Estatísticos](https://github.com/vhnegrisoli/materiais-pos-graduacao/tree/master/09%20-%20Modelos%20Estat%C3%ADsticos)
-* 10 - Machine Learning
+* [10 - Machine Learning](https://github.com/vhnegrisoli/materiais-pos-graduacao/tree/master/10%20-%20Machine%20Learning)
 * 11 - Redes Neurais e Aprendizagem Profunda
 * 12 - Dataops e Implantação de Sistemas de Machine Learning
 
