@@ -111,3 +111,13 @@ Modelo de regressão logística para analisar sobreviventes por sexo utilizando 
 Modelo de algoritmo de Média Móvel Simples (MMS) para realização de forecast de séries temporais
 
 ![Forecast MMS](https://github.com/vhnegrisoli/materiais-pos-graduacao/blob/master/09%20-%20Modelos%20Estat%C3%ADsticos/imgs/03%20-%20S%C3%A9ries%20Temporais%20Forecast%20M%C3%A9dia%20Movel%20Simples.png)
+
+#### 10 - Machine Learning
+
+Modelo de treino e teste para algoritmo de Árvores de Decisão do dataset Iris da Scikit-Learn
+
+![Árvores de Decisão](https://github.com/vhnegrisoli/materiais-pos-graduacao/blob/master/10%20-%20Machine%20Learning/imgs/Arvores%20Decisao%20Com%20Dataset%20Iris.jpg)
+
+Modelo de algoritmo de Árvore de Decisão do dataset Iris da Scikit-Learn com a biblioteca DTreeViz para visualização
+
+![DTreeViz](https://github.com/vhnegrisoli/materiais-pos-graduacao/blob/master/10%20-%20Machine%20Learning/imgs/DTreeViz-Iris.jpeg)
